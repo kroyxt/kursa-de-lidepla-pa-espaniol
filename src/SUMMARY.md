@@ -1,7 +1,7 @@
 # Summary
 
 - [Introducción](./lecciones/intro.md)
-- [Lección 0](./lecciones/leccion_00.md)
+- [Lección 0 | Un idioma neutral de comunicación internacional](./lecciones/leccion_00.md)
 - [Lección 1 | Oración Simple](./lecciones/leccion_01.md)
 - [Lección 2 | Oración Compleja](./lecciones/leccion_02.md)
 - [Lección 3 | Sustantivos y Adjetivos](./lecciones/leccion_03.md)

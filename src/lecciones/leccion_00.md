@@ -1,6 +1,4 @@
-# Lingwa de Planeta | Lección 0
-
-## Lingua de Planeta - un idioma neutral de comunicación internacional
+## Lingua de Planeta - Un idioma neutral de comunicación internacional
 
 ¿Cómo debería ser el idioma de la comunicación internacional?
 
